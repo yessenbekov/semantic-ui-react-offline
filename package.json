@@ -63,9 +63,9 @@
   "author": "Yessenbekov Talgat",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Semantic-Org/Semantic-UI-React/issues"
+    "url": "https://github.com/yessenbekov/semantic-ui-react-offline/issues"
   },
-  "homepage": "https://github.com/Semantic-Org/Semantic-UI-React#readme",
+  "homepage": "https://github.com/yessenbekov/semantic-ui-react-offline#readme",
   "dependencies": {
     "@babel/runtime": "^7.10.5",
     "@fluentui/react-component-event-listener": "~0.51.1",
